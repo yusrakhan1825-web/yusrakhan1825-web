@@ -28,6 +28,12 @@
 ---
 
 <!-- ABOUT ME -->
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&height=12&color=0:190d17,30:831843,65:ec4899,100:c084fc"
+    width="100%"
+  />
+</p>
 
 <h2 align="center">♡ ABOUT ME ♡</h2>
 
