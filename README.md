@@ -1,85 +1,165 @@
-# 🎨 Project Name: Ultimate Web Experience
+<!-- ═══════════ YUSRA KHAN | GITHUB PROFILE ═══════════ -->
 
-<!-- BIG INTRO BANNER -->
-![Project Banner](https://unsplash.com)
+<!-- MAIN INTRO BANNER -->
+<p align="center">
+  <img src="./profile-banner.png" width="100%" alt="Hey, it's Yusra - Web Developer"/>
+</p>
+
+<!-- ANIMATED INTRO -->
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=500&size=23&duration=2800&pause=900&color=F472B6&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Yusra+Khan+%E2%99%A1;Just+Learning+Web+Development;Exploring+the+World+of+Code;Learning+%7C+Creating+%7C+Growing" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/CREATIVE-Developer-ec4899?style=for-the-badge&labelColor=190d17"/>
+<img src="https://img.shields.io/badge/STATUS-Always%20Learning-f9a8d4?style=for-the-badge&labelColor=190d17"/>
+
+</div>
+
+---
+
+<!-- ABOUT ME -->
+
+<h2 align="center">♡ ABOUT ME ♡</h2>
+
+<div align="center">
+
+Hey! I'm **Yusra Khan** 🌸
+
+I'm just learning Web Development and exploring the beautiful world of programming.
+
+I enjoy creating websites, experimenting with designs, solving coding challenges, and turning creative ideas into reality.
+
+</div>
+
+<br/>
+
+```javascript
+const yusra = {
+    name: "Yusra Khan",
+    role: "Aspiring Full-Stack Developer",
+    currentlyLearning: "JavaScript",
+    interests: [
+        "Web Development",
+        "Creative UI Design",
+        "Building Projects"
+    ],
+    mindset: "Always learning, always growing ♡"
+};
+```
+
+---
+
+<!-- TECH STACK -->
+
+<h2 align="center">♡ MY TECH STACK ♡</h2>
 
 <p align="center">
-  <strong>An immersive, responsive, and highly interactive web application crafted from a precise Figma design.</strong>
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,git,github,vscode&theme=dark" />
 </p>
 
 <p align="center">
-  <img src="https://shields.io" alt="Figma">
-  <img src="https://shields.io" alt="HTML5">
-  <img src="https://shields.io" alt="CSS3">
-  <img src="https://shields.io" alt="JavaScript">
-  <img src="https://shields.io" alt="Netlify">
+  <img src="https://img.shields.io/badge/HTML5-FF69B4?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-FF69B4?style=flat-square&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-FF69B4?style=flat-square&logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-FF69B4?style=flat-square&logo=bootstrap&logoColor=white"/>
 </p>
 
 ---
 
-## 🌐 Live Demo & Design Link
+<!-- PROJECTS -->
 
-* **Live Deployment:** [👉 View Live Site on Netlify](https://netlify.app)
-* **Figma UI/UX File:** [📐 View Original Design File](https://figma.com)
+<h2 align="center">♡ THINGS I'VE CREATED ♡</h2>
 
----
+<p align="center">
+  <i>Every project is another step in my learning journey.</i>
+</p>
 
-## ✨ Features & UI/UX Highlights
+<table width="100%">
+<tr>
+<td width="50%" align="center">
 
-* **Pixel Perfect Execution:** Handcrafted HTML/CSS translated exactly from the Figma design prototype.
-* **Fluid Interactions (IX):** Smooth transitions, micro-interactions on hover, and custom JavaScript animations.
-* **Fully Responsive:** Tested across mobile, tablet, and widescreen desktop layouts.
-* **Modern UI:** Clean typography, grid layouts, and interactive dark/light mode toggle.
+### 🎙️ Vibely
 
----
+A social live audio room web application.
 
-## 🛠️ Tech Stack & Tools
+**Exploring:** Interactive UI & Authentication
 
-* **UI/UX Design:** Figma (Wireframing, Prototyping, Component Systems)
-* **Frontend:** HTML5, Semantic Elements, Custom CSS Variables, Flexbox/Grid
-* **Interactions:** Vanilla JavaScript (ES6+ DOM manipulation, Event listeners)
-* **Hosting & Deployment:** Netlify (Continuous Integration via GitHub)
+</td>
+<td width="50%" align="center">
 
----
+### 🎨 Pixalune
 
-## 🚀 Local Setup & Installation
+A creative visual discovery platform.
 
-Follow these quick steps to run this project locally on your machine:
+**Exploring:** Web Design & User Experience
 
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com
-   ```
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
 
-2. **Navigate into the directory:**
-   ```bash
-   cd your-repo-name
-   ```
+### 💻 Personal Portfolio
 
-3. **Open the project:**
-   * Double-click `index.html` to view it instantly in your browser.
-   * Or use the VS Code extension **Live Server** for instant hot-reloading.
+My personal developer portfolio.
 
----
+**Exploring:** Responsive Web Design
 
-## 📦 How This Project Was Deployed to Netlify
+</td>
+<td width="50%" align="center">
 
-This project uses Git-backed continuous deployment. Every time a commit is pushed to the `main` branch, Netlify automatically triggers a new live build.
+### 🛍️ BRO JH
 
-* **Build Command:** `None` (Static site)
-* **Publish Directory:** `.` (Root folder)
+A fashion e-commerce practice project.
 
----
+**Exploring:** Product UI & Shopping Layouts
 
-## 📸 Screenshots
-
-| Desktop View | Mobile View |
-|---|---|
-| ![Desktop View](https://placeholder.com) | ![Mobile View](https://placeholder.com) |
+</td>
+</tr>
+</table>
 
 ---
 
-## 👤 Author
+<!-- GITHUB STATS -->
 
-* **Your Name** - [@your_username](https://github.com)
-* Design Inquiries / Collaboration: your.email@example.com
+<h2 align="center">♡ MY GITHUB JOURNEY ♡</h2>
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=yusrakhan1825-web&show_icons=true&hide_border=true&bg_color=130811&title_color=ff79b0&icon_color=ff79b0&text_color=ffffff&ring_color=ec4899"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusrakhan1825-web&layout=compact&hide_border=true&bg_color=130811&title_color=ff79b0&text_color=ffffff"/>
+</p>
+
+<p align="center">
+  <img width="80%" src="https://streak-stats.demolab.com?user=yusrakhan1825-web&theme=dark&hide_border=true&background=130811&ring=ff79b0&fire=ec4899&currStreakLabel=ff79b0"/>
+</p>
+
+---
+
+<!-- CONNECT -->
+
+<h2 align="center">♡ LET'S CONNECT ♡</h2>
+
+<p align="center">
+  <a href="https://github.com/yusrakhan1825-web">
+    <img src="https://img.shields.io/badge/GitHub-My%20Profile-ec4899?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<!-- FOOTER -->
+
+<div align="center">
+
+### ✧ A LITTLE REMINDER ✧
+
+*Every expert was once a beginner.*
+
+**Keep learning. Keep building. Keep believing. ♡**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ec4899,50:9d174d,100:190d17&height=130&section=footer" width="100%"/>
+
+</div>
+
+<!-- ═══════════ MADE WITH LOVE BY YUSRA ═══════════ -->
