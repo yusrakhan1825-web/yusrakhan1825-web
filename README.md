@@ -2,7 +2,7 @@
 
 <!-- MAIN INTRO BANNER -->
 <p align="center">
-  <img src="./pic" width="100%" alt="Yusra Animated Intro"/>
+  <img src="./pic.jpg" width="100%" alt="Yusra Animated Intro"/>
 </p>
 
 <!-- ANIMATED INTRO -->
