@@ -2,9 +2,23 @@
 
 <!-- MAIN INTRO BANNER -->
 <p align="center">
-  <img src="./pic.jpg" width="100%" alt="Yusra Animated Intro"/>
+  <img
+    src="./pic.jpg"
+    width="100%"
+    alt="Yusra - Aspiring Web Developer"
+  />
 </p>
+<h1 align="center">Hey, It's Yusra! ♡</h1>
 
+<h3 align="center">
+  Just Learning Web Development
+</h3>
+
+<p align="center">
+  Exploring HTML, CSS & JavaScript
+  <br>
+  Learning • Creating • Growing ✨
+</p>
 <!-- ANIMATED INTRO -->
 <div align="center">
 
