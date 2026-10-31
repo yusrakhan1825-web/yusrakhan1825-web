@@ -2,7 +2,15 @@
 
 <!-- MAIN PROFILE BANNER -->
 <p align="center">
-  <img src="./pic.jpg" width="100%" alt="Yusra - Web Developer"/>
+  <img
+    src="./pic.jpg"
+    width="100%"
+    alt="Yusra - Web Developer"
+  />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ec4899,50:9d174d,100:ec4899&height=3&section=header" width="90%"/>
 </p>
 
 <!-- ANIMATED INTRO -->
