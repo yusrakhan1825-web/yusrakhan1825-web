@@ -2,7 +2,7 @@
 
 <!-- MAIN INTRO BANNER -->
 <p align="center">
-  <img src="./profile-banner.png" width="100%" alt="Hey, it's Yusra - Web Developer"/>
+  <img src="./video.gif" width="100%" alt="Yusra Animated Intro"/>
 </p>
 
 <!-- ANIMATED INTRO -->
